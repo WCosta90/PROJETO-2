@@ -84,12 +84,12 @@ a{
 
 a:nth-child(2){
  
-opacity: 0.4px;
+opacity: .4px;
 
 }
 
 a:hover{
-    opacity: 0.4;
+    opacity: .4;
 }
 
 a:active{
